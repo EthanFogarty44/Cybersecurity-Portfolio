@@ -1,5 +1,25 @@
 # Collegiate Hockey Roster Leak Investigation
 
+## Key Takeaways
+
+- The leaked information closely matched materials contained within organization-controlled systems and internal communications.
+
+- Multiple authorized individuals had legitimate access to the finalized roster through email, group messaging, and social media management platforms prior to the disclosure.
+
+- Available evidence suggests the disclosure originated from information accessible through organization-controlled systems. However, no evidence conclusively identified a specific individual responsible for the leak.
+
+- The disclosure affected both selected and non-selected players, creating privacy concerns because the individuals involved were **high school student-athletes**.
+
+- The investigation demonstrated that access to information does not **automatically establish attribution** or responsibility for its disclosure.
+
+- Multiple distribution methods, including email, group messaging, and scheduled social media content, increased the number of **potential disclosure points** throughout the organization.
+
+- The investigation highlighted the importance of **balancing investigative objectives with ethical responsibilities** when student information is involved.
+
+- The case demonstrated the importance of evaluating alternative explanations before reaching investigative conclusions, particularly when multiple authorized users have access to sensitive information.
+
+- Social media collaboration tools may provide a more secure alternative to shared account usage while still allowing media personnel to contribute content and receive appropriate recognition for their work.
+
 ## Overview
 
 Following the completion of team tryouts involving 40 high school players, the finalized roster was intended to remain confidential until its official release the following week.
@@ -17,7 +37,6 @@ Three days before the scheduled release, an anonymous Instagram account publishe
 
 Because the information had not yet been publicly released, team management raised concerns that confidential roster information may have been improperly accessed, shared, or disclosed. A digital forensic investigation was authorized to determine how the information may have been obtained and whether available evidence could identify the source of the leak. The investigation was initiated due to concerns regarding email security, account access controls, and the security of the organization's social media management processes.
 ## Investigative Scope
-
 
 This investigation was initiated after confidential roster information appeared on an anonymous Instagram account prior to the scheduled public announcement. The primary objective is to determine how the information was accessed and identify the path through which the confidential information was disclosed.
 
@@ -57,8 +76,49 @@ Investigators were provided with the following evidence:
 | Monday 8:01 AM | Team management authorizes a digital forensic investigation to determine how the roster information was disclosed before the scheduled announcement. |
 ## Alternative Explanations
 
+To produce a justifiable and evidence-based report, alternative explanations must be considered throughout the investigation.
+
+The unauthorized post may have originated from an individual with legitimate access to roster information. Access records indicate that several authorized users were able to view the scheduled announcement flyer through email accounts, group communications, and social media management platforms. Because the roster was distributed through multiple channels, access to the information alone does not establish responsibility for the disclosure.
+
+The roster information may also have been obtained through a compromised account rather than through direct disclosure by an authorized user. If account credentials were shared or exposed, roster information could have been accessed while appearing to originate from a legitimate user account.
+
+Another possibility involves the group message containing the finalized flyer. Because announcement graphics and roster information were shared within the conversation, the information could have been saved, forwarded, or captured through screenshots. While access to the conversation establishes an opportunity to obtain the information, it does not independently establish who may have misused that access.
+
+Based on the available evidence, multiple individuals had legitimate access to roster information before the unauthorized disclosure occurred. For this reason, identifying a user who viewed the roster or announcement materials is not sufficient to establish attribution without additional supporting evidence.
 ## Findings
 
+Based on the evidence reviewed during the investigation, several findings were established.
+
+The finalized roster information was distributed through multiple channels, including organization email accounts, group communications, and the team's social media management platform.
+
+Multiple individuals possessed legitimate access to the roster information before the anonymous account published the roster announcement. This included coaching staff and media personnel involved in preparing the scheduled post.
+
+Evidence confirmed that the roster announcement graphic was accessed prior to its scheduled publication date numerous times. The post remained available to authorized users through the organization's Instagram account management platform.
+
+The information published by the anonymous Instagram account closely matched information contained within the official roster announcement and related internal communications. This indicates that the source of the disclosure likely originated from information available within the organization.
+
+Although several individuals had access to the roster information, the available evidence did not conclusively identify a specific individual responsible for the disclosure.
 ## Recommendations
 
+Based on the findings of this investigation, several measures are recommended to reduce the risk of sensitive information being disclosed in the future. It should be acknowledged that risk can be reduced but never completely eliminated. For that reason, staff and personnel should remain aware of security expectations and follow established procedures when handling confidential information.
+
+Access to roster information should be limited to individuals who require it for their responsibilities. Team management should regularly review permissions and ensure sensitive information is only available to approved personnel.
+
+Shared accounts should be avoided whenever possible. Individual user accounts improve accountability and make future investigations more effective. For social media operations, Instagram's collaboration features may provide a practical alternative by allowing multiple contributors to participate without sharing account credentials. This also benefits media interns by allowing them to receive proper credit for their work.
+
+Multi-factor authentication should be enabled on organization email accounts and social media platforms to reduce the risk of unauthorized account access.
+
+Confidential team information should not be distributed through group messages unless operationally necessary. When sensitive information must be shared, approved communication channels should be used and access should remain limited to personnel directly involved in the process.
+
+Staff, coaches, and media personnel should receive periodic training on account security, phishing awareness, and the proper handling of confidential team information.
+
+Finally, organization activity logs related to email access, social media management, and account activity should be maintained and reviewed when necessary to support future investigations and accountability efforts.
 ## Conclusion
+
+This investigation examined the unauthorized disclosure of confidential roster information before the organization's scheduled Instagram announcement. Through the examination of email communications, account access records, social media management activity, and group messaging records, it was determined that the leaked information closely matched materials stored within organization-controlled systems.
+
+The evidence established that the information was distributed across several approved communication channels and was accessible to multiple authorized individuals before the unauthorized post occurred. While the investigation supports the conclusion that the disclosure likely originated from information available within the organization, the available evidence did not support attributing responsibility to a specific individual.
+
+The incident exposed weaknesses in information handling practices, account security, and distribution procedures. More importantly, it demonstrated how quickly sensitive information can spread once it becomes accessible through multiple channels. Because the disclosure involved high school student-athletes, the impact extended beyond organizational operations and raised legitimate privacy concerns for the students involved.
+
+Although a definitive source could not be identified, the investigation successfully established how the information could have been accessed, shared, and redistributed. This outcome reinforces a fundamental principle of digital forensics: strong investigations are not measured by finding someone to blame. They are measured by the ability to objectively evaluate evidence, eliminate unsupported assumptions, and present conclusions that can be defended by the facts.
